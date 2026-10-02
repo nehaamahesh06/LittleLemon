@@ -1,0 +1,10 @@
+{
+  "description": "This web application streamlines the restaurant experience by allowing users to easily onboard, browse menus, manage profiles, and save their preferences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
